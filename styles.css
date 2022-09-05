@@ -3,3 +3,22 @@ img{
     height: auto;
     border-radius: 8px;
 }
+
+.header{
+    font-family: Verdana, 'Geneva', Tahoma, sans-serif;
+    font-size: 24px;
+}
+
+.link, .ordered{
+    color: rgb(0, 0, 0);
+}
+
+a:visited{
+    color: brown;
+}
+a:hover {
+    color: rgb(30, 4, 124);
+  }
+  a:active {
+    color: rgb(0, 255, 55);
+  }
