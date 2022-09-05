@@ -4,12 +4,12 @@ img{
     border-radius: 8px;
 }
 
-.header{
+h1{
     font-family: Verdana, 'Geneva', Tahoma, sans-serif;
     font-size: 24px;
 }
 
-.link, .ordered{
+a, ol{
     color: rgb(0, 0, 0);
 }
 
